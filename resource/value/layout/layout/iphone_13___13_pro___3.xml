@@ -1,0 +1,300 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_13___13_pro___1
+	 *	@date 		Wednesday 26th of October 2022 12:52:17 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_13___13_pro___3" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_13___13_pro___3_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_13___13_pro___3_ek2"
+					android:background="@drawable/_bg__iphone_13___13_pro___3_ek2_shape"
+					 android:alpha="0.8"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="397dp"
+					android:layout_height="853dp" />
+
+				<ImageView android:id="@+id/___2022_10_11___6_42_1"
+					android:src="@drawable/___2022_10_11___6_42_1"
+					android:contentDescription="___2022_10_11___6_42_1"
+					 android:alpha="0.89999997615814"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="397dp"
+					android:layout_height="853dp" />
+
+				<View   android:id="@+id/rectangle_10_ek1"
+					android:background="@drawable/rectangle_10_ek1_shape"
+					 android:alpha="0.93999999761581"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="70dp"
+					android:layout_width="341dp"
+					android:layout_height="52dp" />
+
+
+				<RelativeLayout android:id="@+id/ei_search_ek3"
+					android:layout_marginTop="70dp"
+					android:layout_marginStart="25dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek35"
+						android:src="@drawable/vector_ek35"
+						android:contentDescription="vector_ek35"
+						 android:layout_marginStart="10dp"
+						android:layout_marginTop="10dp"
+						android:layout_width="26dp"
+						android:layout_height="26dp" />
+
+					<ImageView android:id="@+id/vector_ek36"
+						android:src="@drawable/vector_ek36"
+						android:contentDescription="vector_ek36"
+						 android:layout_marginStart="31.27dp"
+						android:layout_marginTop="31.27dp"
+						android:layout_width="10.39dp"
+						android:layout_height="10.39dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/search_ek3"
+					android:fontFamily="Inter"
+					android:textSize="24sp"
+					android:textColor="@color/line_2_color"
+					android:layout_marginLeft="84dp"
+					android:layout_marginTop="80dp"
+					android:layout_width="123dp"
+					android:layout_height="51dp"
+					android:text="@string/search_ek3_string"
+					 />
+
+				<ImageView android:id="@+id/vector_ek37"
+					android:src="@drawable/vector_ek37"
+					android:contentDescription="vector_ek37"
+					 android:layout_marginStart="259.58dp"
+					android:layout_marginTop="76.34dp"
+					android:layout_width="33.85dp"
+					android:layout_height="36.8dp" />
+
+
+				<RelativeLayout android:id="@+id/group_ek5"
+					android:layout_marginTop="72.3dp"
+					android:layout_marginStart="311.49dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek38"
+						android:src="@drawable/vector_ek38"
+						android:contentDescription="vector_ek38"
+						 android:layout_marginStart="13dp"
+						android:layout_marginTop="8dp"
+						android:layout_width="16.03dp"
+						android:layout_height="15.16dp" />
+
+					<ImageView android:id="@+id/vector_ek39"
+						android:src="@drawable/vector_ek39"
+						android:contentDescription="vector_ek39"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="42.75dp"
+						android:layout_height="40.43dp" />
+
+				</RelativeLayout>
+
+				<View   android:id="@+id/rectangle_11"
+					android:background="@drawable/rectangle_11_shape"
+					 android:layout_marginStart="48dp"
+					android:layout_marginTop="245dp"
+					android:layout_width="306dp"
+					android:layout_height="364dp" />
+
+
+				<RelativeLayout android:id="@+id/akar_icons_circle_x"
+					android:layout_marginTop="248dp"
+					android:layout_marginStart="53dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout android:id="@+id/group_ek6"
+						android:layout_marginTop="2dp"
+						android:layout_marginStart="2dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView android:id="@+id/vector_ek40"
+							android:src="@drawable/vector_ek40"
+							android:contentDescription="vector_ek40"
+							 android:layout_marginStart="7dp"
+							android:layout_marginTop="7dp"
+							android:layout_width="6dp"
+							android:layout_height="6dp" />
+
+						<ImageView android:id="@+id/vector_ek41"
+							android:src="@drawable/vector_ek41"
+							android:contentDescription="vector_ek41"
+							 android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="20dp"
+							android:layout_height="20dp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/turn_on_the_microphone_insettings"
+					android:fontFamily="Inter"
+					android:textSize="16sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="68dp"
+					android:layout_marginTop="321dp"
+					android:layout_width="312dp"
+					android:layout_height="40dp"
+					android:text="@string/turn_on_the_microphone_insettings_string"
+					 />
+
+				<TextView android:id="@+id/use_your_voice_to_search"
+					android:fontFamily="Inter"
+					android:textStyle="bold"
+					android:textSize="24sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="59dp"
+					android:layout_marginTop="272dp"
+					android:layout_width="329dp"
+					android:layout_height="81dp"
+					android:text="@string/use_your_voice_to_search_string"
+					 />
+
+				<ImageView android:id="@+id/vector_ek42"
+					android:src="@drawable/vector_ek42"
+					android:contentDescription="vector_ek42"
+					 android:layout_marginStart="61dp"
+					android:layout_marginTop="459dp"
+					android:layout_width="43dp"
+					android:layout_height="43dp" />
+
+				<ImageView android:id="@+id/vector_ek43"
+					android:src="@drawable/vector_ek43"
+					android:contentDescription="vector_ek43"
+					 android:layout_marginStart="68dp"
+					android:layout_marginTop="477dp"
+					android:layout_width="14.44dp"
+					android:layout_height="10.45dp" />
+
+				<ImageView android:id="@+id/vector_ek44"
+					android:src="@drawable/vector_ek44"
+					android:contentDescription="vector_ek44"
+					 android:layout_marginStart="82dp"
+					android:layout_marginTop="474dp"
+					android:layout_width="15.01dp"
+					android:layout_height="15.01dp" />
+
+
+				<RelativeLayout android:id="@+id/ic_baseline_keyboard_voice"
+					android:layout_marginTop="387dp"
+					android:layout_marginStart="53dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector_ek45"
+						android:src="@drawable/vector_ek45"
+						android:contentDescription="vector_ek45"
+						 android:layout_marginStart="11.46dp"
+						android:layout_marginTop="6.13dp"
+						android:layout_width="32.08dp"
+						android:layout_height="38.79dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/select_microphone"
+					android:fontFamily="Inter"
+					android:textSize="18sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="108dp"
+					android:layout_marginTop="400dp"
+					android:layout_width="209dp"
+					android:layout_height="57dp"
+					android:text="@string/select_microphone_string"
+					 />
+
+				<TextView android:id="@+id/_2__turn_on_the_microphone"
+					android:fontFamily="Inter"
+					android:textSize="18sp"
+					android:textColor="@color/search_color"
+					android:layout_marginLeft="116dp"
+					android:layout_marginTop="468dp"
+					android:layout_width="247dp"
+					android:layout_height="35dp"
+					android:text="@string/_2__turn_on_the_microphone_string"
+					 />
+
+				<View   android:id="@+id/rectangle_12"
+					android:background="@drawable/rectangle_12_shape"
+					 android:layout_marginStart="174dp"
+					android:layout_marginTop="513dp"
+					android:layout_width="166dp"
+					android:layout_height="39dp" />
+
+				<TextView android:id="@+id/go_to_settings"
+					android:fontFamily="Inter"
+					android:textStyle="bold"
+					android:textSize="18sp"
+					android:textColor="@color/_bg__iphone_13___13_pro___1_ek2_color"
+					android:layout_marginLeft="181dp"
+					android:layout_marginTop="522dp"
+					android:layout_width="175dp"
+					android:layout_height="35dp"
+					android:text="@string/go_to_settings_string"
+					 />
+
+				<TextView android:id="@+id/no__thanks"
+					android:fontFamily="Inter"
+					android:textStyle="bold"
+					android:textSize="18sp"
+					android:textColor="@color/rectangle_12_color"
+					android:layout_marginLeft="210dp"
+					android:layout_marginTop="561dp"
+					android:layout_width="135dp"
+					android:layout_height="35dp"
+					android:text="@string/no__thanks_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
